@@ -1,0 +1,40 @@
+bolwer er name er side e boll er image.(graphics)
+batsman run over ses hoile print
+consecutive boller no.
+bowler max koto over korte parbe.(dynamic)
+define all-rounder/bowler/batsman.
+entery two team player name.
+seclect er por toss.graphically . head/tell kon doll
+toss winning team batting first .
+je dui jon batsman korbe tader name .
+ck player validity.
+same player 2 team e 
+leg byrun
+byrun,
+
+no ball with six dorkar nai,
+no ball+ run.
+over ses e koto over ses hoilo , rum koto , wicket koto, batsman with name .  
+
+---->> 18-09-2020
+
+splite the code.(function wise big ).(pore korleo hbe)
+main file theke code run korbe.
+github account . upload
+if free hit print free hit. wide hoileo thakbe free hit
+  seclect over
+eco check 
+bowler name suggest korbe .
+out hoile allready out
+target koto 2nd innings e show korte hbe with remaing ball.
+elected to badd.
+run rate show.
+
+
+14/10/20
+
+. add sound bat + ball.
+. 4,6,wicket hoile cheer .
+. bolwer er name er side e boll er image.(graphics)
+. batsman er name er side e bat er image.(graphics)
+. quit anytime.
